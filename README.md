@@ -1,2 +1,2 @@
-# -data-analytics-projects
-this is my first Git Repository
+# Data-Analytics-projects
+This is my first Git Repository
